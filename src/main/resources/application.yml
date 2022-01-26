@@ -1,0 +1,31 @@
+#Global configuration
+spring:
+
+  application:
+    name: neopay
+    #H2 Configuration
+    h2.console.enabled: true
+  mvc:
+    view:
+      prefix: /WEB-INF/jsp/
+      suffix: .jsp
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/neopay
+    username: root
+    password: toto
+  jpa:
+    hibernate.ddl-auto: update
+    generate-ddl: true
+    show-sql: true
+
+server:
+  servlet:
+    context-path: /neopay
+
+#Log level configuration
+logging:
+  level:
+    error: DEBUG
+
+
