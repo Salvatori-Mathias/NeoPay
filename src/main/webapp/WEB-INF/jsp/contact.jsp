@@ -23,15 +23,15 @@
   <div class="container py-3">
     <header class="d-flex flex-column flex-md-row align-items-center pb-3 mb-4 border-bottom">
       <div>
-        <h4 class="logo">Pay My Budy</h4>
-      </div>
+                         <img src="neo3.png" width="150px">
+                 </div>
 
       <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
-        <a class="me-3 py-2 text-dark text-decoration-none" href="/paymybuddy">Home</a>
-        <a class="me-3 py-2 text-dark text-decoration-none" href="/paymybuddy/transfer">Transfer</a>
-        <a class="me-3 py-2 text-dark text-decoration-none" href="/paymybuddy/profile">Profile</a>
-        <a class="me-3 py-2 text-dark text-decoration-none" href="/paymybuddy/contact">Contact</a>
-        <a class="py-2 text-dark text-decoration-none" href="/paymybuddy/logout">Log off </a>
+        <a class="me-3 py-2 text-dark text-decoration-none" href="/neopay">Home</a>
+        <a class="me-3 py-2 text-dark text-decoration-none" href="/neopay/profile">Profile</a>
+        <a class="me-3 py-2 text-dark text-decoration-none" href="/neopay/contact">Contact</a>
+        <a class="me-3 py-2 text-dark text-decoration-none" href="/neopay/pay">pay</a>
+        <a class="py-2 text-dark text-decoration-none" href="/neopay/logout">Log off </a>
       </nav>
     </header>
     <main>

@@ -17,10 +17,13 @@
     <body class="text-center" cz-shortcut-listen="true">
       <div class="container">
 
+       <div>
+                          <img src="neo3.png" width="150px">
+                  </div>
+
         <form class="form-signin" method="post" action="login" name = "f">
 
-                  <h4 class="logo">NeoPay</h4>
-                  </br>
+                   </br>
                   <h2 class="form-signin-heading">Please sign in</h2>
                   </br>
                   <p>
@@ -34,16 +37,12 @@
                       required=""/>
 
                   </p>
-                  <p>
-                    Remember me ?
-                    <input type="checkbox" id="remember-me" name="remember-me" class="checkbox" />
 
-                  </p>
 
                   <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
                   </br>
 
-                  <a class="py-2 text-dark text-decoration-none" href="/paymybuddy/register">New Member ?</a>
+                  <a class="py-2 text-dark text-decoration-color" href="/neopay/register">New Member ?</a>
                 </form>
       </div>
     </body>

@@ -32,57 +32,14 @@
                     <img src="neo3.png" width="150px">
             </div>
             <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
-              <a class="me-3 py-2 text-dark text-decoration-none" href="/paymybuddy">Home</a>
-              <a class="me-3 py-2 text-dark text-decoration-none" href="/paymybuddy/profile">Profile</a>
-              <a class="me-3 py-2 text-dark text-decoration-none" href="/paymybuddy/contact">Contact</a>
-              <a class="py-2 text-dark text-decoration-none" href="/paymybuddy/logout">Log off </a>
+              <a class="me-3 py-2 text-dark text-decoration-none" href="/neopay">Home</a>
+              <a class="me-3 py-2 text-dark text-decoration-none" href="/neopay/profile">Profile</a>
+              <a class="me-3 py-2 text-dark text-decoration-none" href="/neopay/contact">Contact</a>
+              <a class="me-3 py-2 text-dark text-decoration-none" href="/neopay/pay">pay</a>
+              <a class="py-2 text-dark text-decoration-none" href="/neopay/logout">Log off </a>
             </nav>
           </header>
-          <div class="box">
 
-            <div class="selected"><a href="connection"><button class="btn btn-lg btn-primary btn-block">add a connection</button></a></div>
-
-          </div>
-
-
-          <div class="flex">
-
-            </br>
-            <h4> Send money
-            </h4>
-
-
-
-
-              <main>
-                </br>
-                <h2 class="display-6 text-left mb-4">My transactions</h2>
-
-                <div class="table-responsive">
-                  <table class="table text-center">
-                    <thead>
-                      <tr >
-                        <th>Connection</th>
-                        <th>Connection name</th>
-                        <th>Amount</th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                        <c:forEach items="${transfers}" var="transfer">
-                                              <tr>
-                                              <td>${transfer.to.email} </td>
-                                              <td> ${transfer.to.firstName} ${transfer.to.lastName}</td>
-                                              <td> ${transfer.amountBeforeFee} €</td>
-                                              </tr>
-                                               </c:forEach>
-                    </tbody>
-                  </table>
-                </div>
-              </main>
-
-              <footer class="pt-4 my-md-5 pt-md-5 border-top">
-
-              </footer>
             </div>
           </div>
         </div>

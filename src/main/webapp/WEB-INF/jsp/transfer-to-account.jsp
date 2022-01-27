@@ -30,19 +30,20 @@
         <div class="container py-3">
           <header class="d-flex flex-column flex-md-row align-items-center pb-3 mb-4 border-bottom">
             <div>
-              <h4 class="logo">Pay My Budy</h4>
+              <h4 class="logo">NeoPay</h4>
             </div>
             <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
-              <a class="me-3 py-2 text-dark text-decoration-none" href="/paymybuddy">Home</a>
-              <a class="me-3 py-2 text-dark text-decoration-none" href="/paymybuddy/transfer">Transfer</a>
-              <a class="me-3 py-2 text-dark text-decoration-none" href="/paymybuddy/profile">Profile</a>
-              <a class="me-3 py-2 text-dark text-decoration-none" href="/paymybuddy/contact">Contact</a>
-              <a class="py-2 text-dark text-decoration-none" href="/paymybuddy/logout">Log off </a>
+              <a class="me-3 py-2 text-dark text-decoration-none" href="/neopay">Home</a>
+              <a class="me-3 py-2 text-dark text-decoration-none" href="/neopay/transfer">Transfer</a>
+              <a class="me-3 py-2 text-dark text-decoration-none" href="/neopay/profile">Profile</a>
+              <a class="me-3 py-2 text-dark text-decoration-none" href="/neopay/contact">Contact</a>
+              <a class="me-3 py-2 text-dark text-decoration-none" href="/neopay/pay">pay</a>
+              <a class="py-2 text-dark text-decoration-none" href="/neopay/logout">Log off </a>
             </nav>
           </header>
 
        <div id="content">
-           <div class="card-top border-bottom text-center">  <span id="logo">Transfer cash to your Pay my buddy account</span> </div>
+           <div class="card-top border-bottom text-center">  <span id="logo">Transfer cash to your NeoPay account</span> </div>
            <div class="card-body">
                <div class="row upper">  </div>
                <div class="row">

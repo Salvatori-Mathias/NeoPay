@@ -11,7 +11,7 @@
         <meta name="description" content="">
         <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
         <meta name="generator" content="Hugo 0.82.0">
-        <title>transfer to bank</title>
+        <title>pay</title>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet"
           integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
         <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/pricing/">
@@ -60,7 +60,6 @@
             </div>
             <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
               <a class="me-3 py-2 text-dark text-decoration-none" href="/neopay">Home</a>
-              <a class="me-3 py-2 text-dark text-decoration-none" href="/neopay/transfer">Transfer</a>
               <a class="me-3 py-2 text-dark text-decoration-none" href="/neopay/profile">Profile</a>
               <a class="me-3 py-2 text-dark text-decoration-none" href="/neopay/contact">Contact</a>
               <a class="me-3 py-2 text-dark text-decoration-none" href="/neopay/pay">pay</a>
@@ -71,7 +70,7 @@
           <div class="flex">
 
             </br>
-            <h4> Send money to your bank
+            <h4> pay with your wallet
             </h4>
 
             <div>
