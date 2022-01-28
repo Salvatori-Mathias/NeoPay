@@ -33,12 +33,11 @@
               <h4 class="logo">NeoPay</h4>
             </div>
             <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
-              <a class="me-3 py-2 text-dark text-decoration-none" href="/neopay">Home</a>
-              <a class="me-3 py-2 text-dark text-decoration-none" href="/neopay/transfer">Transfer</a>
-              <a class="me-3 py-2 text-dark text-decoration-none" href="/neopay/profile">Profile</a>
-              <a class="me-3 py-2 text-dark text-decoration-none" href="/neopay/contact">Contact</a>
-              <a class="me-3 py-2 text-dark text-decoration-none" href="/neopay/pay">pay</a>
-              <a class="py-2 text-dark text-decoration-none" href="/neopay/logout">Log off </a>
+                 <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+                            <a class="me-3 py-2 text-light text-decoration-none" href="/neopay">Home</a>
+                            <a class="me-3 py-2 text-light text-decoration-none" href="/neopay/profile">Profile</a>
+                            <a class="me-3 py-2 text-light text-decoration-none" href="/neopay/contact">Contact</a>
+                            <a class="py-2 text-light text-decoration-none" href="/neopay/logout">Log off </a>
             </nav>
           </header>
 
