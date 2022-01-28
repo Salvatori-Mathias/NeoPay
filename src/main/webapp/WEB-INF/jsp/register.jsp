@@ -19,9 +19,13 @@
 
     <body class="text-center">
       <div class="container">
+
+      <div class="d-flex justify-content-center">
         <main class="form-signin">
           <div id="addUser">
-            <h4 class="logo">NeoPay</h4>
+              <div>
+               <img src="neo3.png" width="150px">
+               </div>
             </br>
             <form:form action="registration" method="post" modelAttribute="registrationForm">
 
@@ -54,6 +58,7 @@
             </form:form>
           </div>
         </main>
+        </div>
       </div>
 
 

@@ -57,6 +57,7 @@ body {
         background-color:#C723fe;
         border-color: #14fcff;
 }
+
 .btn:hover {
   background-color: #14fcff;
   color: white;
@@ -69,6 +70,7 @@ width: 30%;
 thead{
 background-color: #fff;
 }
+
 .container {
   max-width: 1500px;
 }
@@ -193,6 +195,7 @@ border-radius: .3rem;
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
+
 #logo-register {
   margin: auto;
     width: 200px;
@@ -276,9 +279,7 @@ form span {
     color: rgb(179, 179, 179)
 }
 
-form {
-    padding: 2vh 0
-}
+
 
 
 input {
