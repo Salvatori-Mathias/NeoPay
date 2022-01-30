@@ -36,6 +36,11 @@ body {
         border-color: #14fcff;
 }
 
+label {
+    display: inline-block;
+    color: black;
+}
+
 .btn:hover {
   background-color: #14fcff;
   color: white;

@@ -11,7 +11,7 @@
     <groupId>com.NeoPay</groupId>
     <artifactId>NeoPay</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>PayMyBudy</name>
+    <name>NeoPay</name>
     <description>App to transfer cash </description>
     <properties>
         <java.version>16</java.version>
